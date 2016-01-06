@@ -1,0 +1,226 @@
+BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+METHOD:REPLY
+BEGIN:VTIMEZONE
+TZID:US Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+LAST-MODIFIED:20151105T055428Z
+DTSTAMP:20151105T055428Z
+UID:040000008200E00074C5B7101A82E0080000000090A0D4E9DB16D10100000000000000
+ 001000000054E2CF5D9F03464D92D2955AC7C450D1
+SUMMARY:Lexalytics / Prognosysd Discussion
+PRIORITY:5
+STATUS:CONFIRMED
+ORGANIZER;CN=Dianne Schieffer:mailto:dianne.schieffer@lexalytics.com
+ATTENDEE;CN=Vinod Jayakumar;PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT:mailto:
+ vinod@prognosysd.com
+ATTACH:CID:530614FF160F7D46B14FC22387AED305@namprd08.prod.outlook.com
+ATTACH:CID:82A7E2CEAD48E940BB893FB6CA84EB26@namprd08.prod.outlook.com
+ATTACH:CID:A06DA37100EE7443AC8DBE8DF3B16830@namprd08.prod.outlook.com
+ATTACH:CID:72ABF7B8B6073B4ABE270424DD135423@namprd08.prod.outlook.com
+ATTACH:CID:9FF716F910169740AFB9B858F4EB186B@namprd08.prod.outlook.com
+ATTACH:CID:1E7A1A36AA811E4883DB4513ABB6156F@namprd08.prod.outlook.com
+ATTACH:CID:040BECDB26410340AAB7967D83B5351C@namprd08.prod.outlook.com
+ATTACH:CID:648D590495DBC44A877BC33F0256CF1F@namprd08.prod.outlook.com
+ATTACH:CID:7446B60A30686D41936A1BD7E3D14180@namprd08.prod.outlook.com
+ATTACH:CID:D51F03146FCB0841A2F9E1B527930908@namprd08.prod.outlook.com
+ATTACH:CID:E0E712EFE7AF0143970200904064FB6E@namprd08.prod.outlook.com
+DTSTART;TZID=US Eastern Standard Time:20151109T110000
+DTEND;TZID=US Eastern Standard Time:20151109T113000
+DESCRIPTION;LANGUAGE=en-US:\n\n___________________________________________
+ __\nFrom: Abhi Yadav [mailto:abhi@prognosysd.com]\nSent: Tuesday\, Novembe
+ r 3\, 2015 10:57 PM\nTo: Dianne Schieffer <dianne.schieffer@lexalytics.com
+ <mailto:dianne.schieffer@lexalytics.com>>\; Martin Obretenov <martin.obret
+ enov@lexalytics.com<mailto:martin.obretenov@lexalytics.com>>\nCc: Vinod Ja
+ yakumar <vinod@dataxylo.com<mailto:vinod@dataxylo.com>>\nSubject: Re: Sent
+ iment analysis + predictive analytics = happy clients\n\n\nSure\, please s
+ end an invite for Monday at 11am\nThanks\n\nAbhi\n\n\n\nFrom: Dianne Schie
+ ffer <dianne.schieffer@lexalytics.com<mailto:dianne.schieffer@lexalytics.c
+ om>>\nDate: Tuesday\, November 3\, 2015 at 1:12 PM\nTo: Abhishek Yadav <ab
+ hi@prognosysd.com<mailto:abhi@prognosysd.com>>\, Martin Obretenov <martin.
+ obretenov@lexalytics.com<mailto:martin.obretenov@lexalytics.com>>\nSubject
+ : RE: Sentiment analysis + predictive analytics = happy clients\n\nHi Abhi
+ \,\n\nMartin in unavailable on Friday between 10a – 2p.  Would you be av
+ ailable on Monday\, Nov 9th at 11am ET or Tuesday\, Nov 11th at 2pm ET ?  
+ Thanks!\n\nRegards\,\nDianne\n\nFrom: Abhi Yadav [mailto:abhi@prognosysd.c
+ om]\nSent: Tuesday\, November 3\, 2015 11:02 AM\nTo: Dianne Schieffer <dia
+ nne.schieffer@lexalytics.com<mailto:dianne.schieffer@lexalytics.com>>\nSub
+ ject: Re: Sentiment analysis + predictive analytics = happy clients\n\n\nH
+ i Dianne\n\nLet me know if we can do this call on coming Friday anytime ? 
+ Anytime between 10am -2pm ?\nIf you can send an invite accordingly\n\nLet 
+ me know\n\nThanks\n\nAbhi\n\n\n\n\nFrom: Dianne Schieffer <dianne.schieffe
+ r@lexalytics.com<mailto:dianne.schieffer@lexalytics.com>>\nDate: Wednesday
+ \, October 28\, 2015 at 10:45 AM\nTo: Abhishek Yadav <abhi@prognosysd.com<
+ mailto:abhi@prognosysd.com>>\, Martin Obretenov <martin.obretenov@lexalyti
+ cs.com<mailto:martin.obretenov@lexalytics.com>>\nSubject: RE: Sentiment an
+ alysis + predictive analytics = happy clients\n\nHi Abhi\,\n\nNo problem. 
+  Would you be available on Friday at either 1pm ET or 2pm ET?  Thanks!\n\n
+ Regards\,\nDianne\n\nFrom: Abhi Yadav [mailto:abhi@prognosysd.com]\nSent: 
+ Wednesday\, October 28\, 2015 10:32 AM\nTo: Dianne Schieffer <dianne.schie
+ ffer@lexalytics.com<mailto:dianne.schieffer@lexalytics.com>>\; Martin Obre
+ tenov <martin.obretenov@lexalytics.com<mailto:martin.obretenov@lexalytics.
+ com>>\nSubject: Re: Sentiment analysis + predictive analytics = happy clie
+ nts\n\n\nHi Dianne\, Martin\n\nSomething came up urgently and my calendar 
+ went for a toss\, do you have few options for thur/fri this week?\nThanks\
+ n\nAbhi\n\n\n\n\nFrom: Dianne Schieffer <dianne.schieffer@lexalytics.com<m
+ ailto:dianne.schieffer@lexalytics.com>>\nDate: Monday\, October 26\, 2015 
+ at 10:36 AM\nTo: Martin Obretenov <martin.obretenov@lexalytics.com<mailto:
+ martin.obretenov@lexalytics.com>>\, Abhishek Yadav <abhi@prognosysd.com<ma
+ ilto:abhi@prognosysd.com>>\nSubject: RE: FW: Sentiment analysis + predicti
+ ve analytics = happy clients\n\nHi Abhi\,\n\nWould Wednesday work for the 
+ reschedule?  Martin is available at 11am ET or 2pm ET.  Please let me know
+  if one of these times works for you.  Thanks!\n\nRegards\,\nDianne\n\n\n\
+ nFrom: Martin Obretenov [mailto:martin.obretenov@lexalytics.com]\nSent: Mo
+ nday\, October 26\, 2015 10:26 AM\nTo: Abhi Yadav <abhi@prognosysd.com<mai
+ lto:abhi@prognosysd.com>>\nCc: Dianne Schieffer <dianne.schieffer@lexalyti
+ cs.com<mailto:dianne.schieffer@lexalytics.com>>\nSubject: Re: FW: Sentimen
+ t analysis + predictive analytics = happy clients\n\nNo worries Abhi.\n\nS
+ ure\, Dianne is now back and can help us set this up. I had an event on Tu
+ esday but now my schedule opened up too.\n\nLets set up a new time\, Diann
+ e will offer some slots.\n\n\n\n\nMartin Obretenov Customer Success Manage
+ r\nCell: +1 (415) 799-7814\nLexalytics Read Between The Lines\n320 Congres
+ s St.\, Boston\, MA 02210\nwww.lexalytics.com<http://www.lexalytics.com>\n
+ \nThis message (including any attachments) may contain confidential inform
+ ation intended for a specific individual and purpose\, and is protected by
+  law. If you are not the intended recipient\, you should delete this messa
+ ge and contact the sender.\n\nOn Mon\, Oct 26\, 2015 at 10:23 AM\, Abhi Ya
+ dav <abhi@prognosysd.com<mailto:abhi@prognosysd.com>> wrote:\n\nMartin –
+  I am packed today\, I requested for Tuesday sometimes\, can even do Wedne
+ sday?\nThax\n\nA\n\n\nFrom: Abhishek Yadav <abhi@prognosysd.com<mailto:abh
+ i@prognosysd.com>>\nDate: Monday\, October 19\, 2015 at 6:04 PM\nTo: Amy I
+ ngram <amy@x.ai<mailto:amy@x.ai>>\nSubject: Re: Sentiment analysis + predi
+ ctive analytics = happy clients\n\nCan we try Oct 27th in afternoon?\n\n\n
+ From: Amy Ingram <amy@x.ai<mailto:amy@x.ai>>\nDate: Monday\, October 19\, 
+ 2015 at 6:03 PM\nTo: Abhishek Yadav <abhi@prognosysd.com<mailto:abhi@progn
+ osysd.com>>\nSubject: Re: Sentiment analysis + predictive analytics = happ
+ y clients\n\nHi Abhi\,\n\nNo problem. I'll send out an updated invite for 
+ Monday\, Oct 26 at 10:15 AM EDT.\n\nAmy\n\n\n\n\n\nOn Mon\, October 19th\,
+  2015 at 4:41 pm (EDT)\, Abhi Yadav <abhi@prognosysd.com<mailto:abhi@progn
+ osysd.com>> wrote:\nCan we try something next week instead ? Lets say on T
+ uesday ?\n\n\nFrom: Amy Ingram <amy@x.ai<mailto:amy@x.ai>>\nDate: Monday\,
+  October 19\, 2015 at 11:17 AM\nTo: Abhishek Yadav <abhi@prognosysd.com<ma
+ ilto:abhi@prognosysd.com>>\nSubject: Re: Sentiment analysis + predictive a
+ nalytics = happy clients\n\nHi Abhi\,\n\nMartin has let me know this meeti
+ ng will be a phone conference.\n\nI'll send out an invite once I have conf
+ irmed the conference details with Martin.\n\nAmy\n\n\n\n\n\nOn Mon\, Octob
+ er 19th\, 2015 at 11:13 am (EDT)\, Martin Obretenov <martin.obretenov@lexa
+ lytics.com<mailto:martin.obretenov@lexalytics.com>> wrote:\nAbhi\,\n\nNo w
+ orries\, thanks for writing back. Amy will help us set a conference call a
+ t a convenient time for you.\n\nLooking forward to speaking soon.\n\nRegar
+ ds\,\n\n\n\n\n\nMartin Obretenov Customer Success Manager\nCell: +1 (415) 
+ 799-7814<tel:%2B1%20%28415%29%20799-7814>\nLexalytics Read Between The Lin
+ es\n320 Congress St.\, Boston\, MA 02210\nwww.lexalytics.com<http://www.le
+ xalytics.com>\n\nThis message (including any attachments) may contain conf
+ idential information intended for a specific individual and purpose\, and 
+ is protected by law. If you are not the intended recipient\, you should de
+ lete this message and contact the sender.\n\nOn Sat\, Oct 17\, 2015 at 5:2
+ 2 PM\, Abhi Yadav <abhi@prognosysd.com<mailto:abhi@prognosysd.com>> wrote:
+ \nMartin\,\n\nApologies for the delay as your email got buried with some t
+ ravel/ back logs etc\nAppreciate your feedback.\n\nCan you share few date 
+ and times for this pending call to move things forward ?\nThanks\n\nAbhi\n
+ \n\nFrom: Martin Obretenov <martin.obretenov@lexalytics.com<mailto:martin.
+ obretenov@lexalytics.com>>\nDate: Thursday\, October 15\, 2015 at 11:41 AM
+ \nTo: Abhishek Yadav <abhi@prognosysd.com<mailto:abhi@prognosysd.com>>\nSu
+ bject: Re: Sentiment analysis + predictive analytics = happy clients\n\nAb
+ hi\,\n\nI never heard back from you on my previous mail. Got any updates f
+ or me?\n\nRegards\,\n\n\n\n\n\n\nMartin Obretenov Customer Success Manager
+ \nCell: +1 (415) 799-7814<tel:%2B1%20%28415%29%20799-7814>\nLexalytics Rea
+ d Between The Lines\n320 Congress St.\, Boston\, MA 02210\nwww.lexalytics.
+ com<http://www.lexalytics.com>\n\nThis message (including any attachments)
+  may contain confidential information intended for a specific individual a
+ nd purpose\, and is protected by law. If you are not the intended recipien
+ t\, you should delete this message and contact the sender.\n\nOn Wed\, Aug
+  5\, 2015 at 10:58 PM\, Martin Obretenov <martin.obretenov@lexalytics.com<
+ mailto:martin.obretenov@lexalytics.com>> wrote:\n\nHi Abhi\,\n\nIn most ca
+ ses we have our customers white label the platform – your customers use 
+ your service\, you run us in the background. With any subscription you get
+  unlimited training and support and you can talk 1:1 with our Head of Data
+  Sciences any time. Lexalytics/Semantria processes billions of pieces of t
+ ext a week and we power the biggest social media monitoring platforms like
+  Sprinklr.com but also global companies like Oracle. For a brief reference
+  I have attached a PDF with the use cases our tool is used for.\n\nI total
+ ly understand you needing to show a demo – for the purpose of that I wou
+ ld propose we show you a demo ourselves first. Before we schedule the demo
+  call\, I suggest you\, me and the Director of Customer Success have a qui
+ ck call first. This way we can learn what you want to achieve and what wou
+ ld be the most beneficial way for you to integrate\, and we would be able 
+ to make sure you get the most relevant support and guidance.\n\nWould you 
+ like that? Just let me know and I’ll have the call scheduled for us.\n\n
+ Thanks\,\n\nMartin\n\n\nFrom: Abhi Yadav [mailto:abhi@prognosysd.com<mailt
+ o:abhi@prognosysd.com>]\nSent: Wednesday\, August 5\, 2015 1:45 PM\nTo: Ma
+ rtin Obretenov <martin.obretenov@lexalytics.com<mailto:martin.obretenov@le
+ xalytics.com>>\nSubject: Re: Sentiment analysis + predictive analytics = h
+ appy clients\n\nHi Martin\n\nThanks for reaching out\, yes we may have som
+ e need to leverage your API for our existing clients requirement\,\n\nDo y
+ ou have a typical engagement model with Partners\, we may like to use your
+  API in our Product or white label your solution.\n\nWe may need to show a
+  demo to the end clients to further leverage this\, if you can share some 
+ material\, more info?\n\nLet me know on more information and we can take i
+ t forward from there\n\nBest\n\nAbhi\n\nFrom: Martin Obretenov <martin.o@l
+ exalytics.com<mailto:martin.o@lexalytics.com>>\nReply-To: Martin Obretenov
+  <martin.o@lexalytics.com<mailto:martin.o@lexalytics.com>>\nDate: Wednesda
+ y\, August 5\, 2015 at 1:12 PM\nTo: <markan@prognosysd.com<mailto:markan@p
+ rognosysd.com>>\nSubject: Sentiment analysis + predictive analytics = happ
+ y clients\n\nHi sheena\,\n\nI’m wondering who would be the right person 
+ at Prognosys to speak to about sentiment analysis for predictive analytics
+ \, and customer experience platforms?\n\nLexalytics (http://www.lexalytics
+ .com<http://bd.semantria.com/351e11bca69f6e637c>) is the leading enterpris
+ e text and sentiment analysis solution\, and is easy to integrate into mos
+ t platforms. In less time than it takes you to make a coffee\, our softwar
+ e will process thousands of reviews\, tweets\, and other customer verbatim
+ s for sentiment\, classification\, entity extraction and more.\n\nWe alrea
+ dy power companies like GfK\, SMG\, InMoment\, and Maritz\, and process mi
+ llions of text documents per day.\n\nTherefore\, I’m wondering who would
+  be the right person at Prognosys to further discuss this with. Your help 
+ is greatly appreciated!\n\nCheers\,\n\nMartin\n\n\n\n\n\n\n\n\n\n\n_______
+ _________________________\nMartin Obretenov\nCustomer Success Manager\nLex
+ alytics\nT   877-570-1840 x704<tel:877-570-1840%20x704>\nE   martin.o@lexa
+ lytics.com<mailto:martin.o@lexalytics.com>\n\nThis message (including any 
+ attachments) may contain confidential information intended for a specific 
+ individual and purpose\, and is protected by law. If you are not the inten
+ ded recipient\, you should delete this message and contact the sender.\n\n
+ \n\n\n\n\n\n\n\n\n\nClick here to unsubscribe<http://bd.semantria.com/4766
+ 646234577d17ed>.Error! Filename not specified.\n\nError! Filename not spec
+ ified.\n\n\n\n\n\n      ---GoToMeeting invitation begins---\n\n      Pleas
+ e join my meeting from your computer\, tablet or smartphone.\n      https:
+ //www.gotomeeting.com/join/646659581\n\n      You can also dial in using y
+ our phone.\n      Canada: +1 (647) 497-9350\n\n      Access Code: 646-659-
+ 581\n\n      More phone numbers\n      Australia: +61 2 9087 3604\n      A
+ ustria: +43 7 2088 0034\n      Belgium: +32 (0) 28 93 7018\n      Denmark:
+  +45 69 91 80 05\n      Finland: +358 (0) 931 58 1746\n      France: +33 (
+ 0) 182 880 780\n      Germany: +49 (0) 692 5736 7211\n      Ireland: +353 
+ (0) 15 290 180\n      Italy: +39 0 699 36 98 80\n      Netherlands: +31 (0
+ ) 208 908 267\n      New Zealand: +64 9 442 7358\n      Norway: +47 21 54 
+ 32 44\n      Spain: +34 911 23 0850\n      Sweden: +46 (0) 853 527 835\n  
+     Switzerland: +41 (0) 435 0006 96\n      United Kingdom: +44 (0) 20 371
+ 3 5028\n      United States: +1 (312) 757-3126\n\n---GoToMeeting invitatio
+ n ends---\n\n
+CLASS:PUBLIC
+TRANSP:OPAQUE
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:https://www.gotomeeting.com/join/646659581
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:-1534806049
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+END:VCALENDAR
+
